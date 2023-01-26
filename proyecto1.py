@@ -1,4 +1,5 @@
-# Proyecto 1: Historias locas
+# Proyecto 1: Historias locas / freeCodeCamp
+# Creé una historia donde faltan palabras que ingresará el concursante.
 
 tiempo = input ("Tiempo: ")
 tiempo2 = input ("Tiempo: ")
